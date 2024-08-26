@@ -29,9 +29,9 @@ This is a Flappy Bird clone developed using **Unity** and **C#**. The game invol
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://github.com/Mar1yam/Flappy-Bird/blob/304dd8210e3cc4d7a848e97b005749dc0c23397c/Pic1" alt="Screenshot 1" width="300" style="margin: 10px;">
-  <img src="https://github.com/Mar1yam/Flappy-Bird/blob/28bba4bef6860db3b2fc18acc01a9d940e8ec160/Screenshot%202024-08-25%20231522.png" alt="Screenshot 2" width="300" style="margin: 10px;">
-  <img src="https://github.com/Mar1yam/Flappy-Bird/blob/a9da585057f64e157ba46289a9a26df93233c6df/Screenshot%202024-08-25%20231557.png" alt="Screenshot 3" width="300" style="margin: 10px;">
+  <img src="https://github.com/Mar1yam/Flappy-Bird/blob/e3f37a33e2fcc12525dfbed82a17b9e4249906fd/Screenshot%202024-08-25%20231457.png" alt="Screenshot 1" width="300" style="margin: 10px;">
+  <img src="https://github.com/Mar1yam/Flappy-Bird/blob/e3f37a33e2fcc12525dfbed82a17b9e4249906fd/Screenshot%202024-08-25%20231522.png" alt="Screenshot 2" width="300" style="margin: 10px;">
+  <img src="https://github.com/Mar1yam/Flappy-Bird/blob/e3f37a33e2fcc12525dfbed82a17b9e4249906fd/Screenshot%202024-08-25%20231557.png" alt="Screenshot 3" width="300" style="margin: 10px;">
 </div>
 
 ## 🙌 Acknowledgements
