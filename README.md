@@ -12,7 +12,7 @@ This is a Flappy Bird clone developed using **Unity** and **C#**. The game invol
 ## 🚀 Getting Started
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Mar1yam/flappy-bird.git
+   git clone https://github.com/Mar1yam/Flappy-Bird.git
 
 2. ### Open in Unity:
 - Open the project in Unity
